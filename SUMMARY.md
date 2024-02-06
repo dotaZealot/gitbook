@@ -3,6 +3,7 @@
 ## Group 1
 
 * [payin](README.md)
+  * [CreditCard](group-1/payin/creditcard.md)
 * [payout](group-1/payout/README.md)
   * [query](group-1/payout/query.md)
   * [env](https://docs.pagsmile.com/payin/environments)
